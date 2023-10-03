@@ -1,4 +1,4 @@
-# VIisualControlHEXCEL
+# VisualControlHEXCEL
 Defects Detection Interface in Python
 
 in this project I worked on a desktop application using python that takes the picture and informations of a product that Hexcel Corporation produces, the picture of this product is saved and analyzed and the result is displayed on a high quality image with the lines of the contour and the different shapes in the product that are needed to be detected
